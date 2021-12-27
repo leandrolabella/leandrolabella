@@ -1,5 +1,21 @@
-## Opaa, eu sou o Leandro e sou apaixonado por Java!
-<div align="left">
-  <a href="https://github.com/leandrolabella">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolabella&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<h2 align='center'>
+  Opaa 👋 Eu sou o Leandro!
+</h2>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolabella&layout=compact&theme=dark" width="300"></a>
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/leandro-labella/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" / target"_blank">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:leandro.silva.0744@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" / target"_blank">
+  </a>&nbsp;&nbsp;
+</p>
+
+<br>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/leandrolabella/leandrolabella"></a>
+</p>
